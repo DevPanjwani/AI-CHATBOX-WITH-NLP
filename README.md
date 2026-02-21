@@ -14,4 +14,4 @@
 
 ##OUTPUT:
 
-[task3.py](https://github.com/user-attachments/files/25460887/task3.py)
+<img width="361" height="160" alt="Image" src="https://github.com/user-attachments/assets/dfb4cbe2-b026-41f9-b564-7c3457346d8e" />
